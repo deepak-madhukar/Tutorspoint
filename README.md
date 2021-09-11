@@ -1,3 +1,3 @@
 # Tutorspoint
-# A replica of Tutorials point website.
-# (Designed for Desktop screen)
+ A replica of Tutorials point website.
+ (Designed for Desktop screen)
